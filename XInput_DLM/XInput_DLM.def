@@ -1,0 +1,4 @@
+LIBRARY			XInput_DLM
+DESCRIPTION		'XInput interface for IDL'
+
+EXPORTS			IDL_Load		@1
